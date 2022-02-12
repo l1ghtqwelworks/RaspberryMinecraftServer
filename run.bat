@@ -1,0 +1,1 @@
+"jdk1.8.0_202/bin/java" -Xmx7G -Xms7G -jar forge-1.12.2-14.23.5.2859.jar nogui 
